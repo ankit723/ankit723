@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankit723
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Software Development
 - i learned Python programing
 - machine learning, deep learning as well as computer vision in python
 - 🌱 I’m currently learning c sharp , c programing languages
