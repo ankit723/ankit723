@@ -1,14 +1,19 @@
-- 👋 Hi, I’m @ankit723
-- 👀 I’m interested in Software Development
-- i learned Python programing
-- machine learning, deep learning as well as computer vision in python
-- 🌱 I’m currently learning c sharp , c programing languages
-- 💞️ I’m looking to collaborate on making game developing game and desigining game
-- 📫 You can reach me by messaging me in my email address   varanasiartist.omg@gmail.com
-- [![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit723)](https://github.com/ankit723)
+# Hi, I'm Ankit 👋
+Full Stack Web Developer | Computer Science Student
 
-- 
-- 
+## About Me
+I'm a B.Tech Computer Science student passionate about programming, currently honing my skills as a Full Stack Web Developer through internships and projects.
+
+## Skills
+- 💻 Full Stack Development
+- 🌐 Web Technologies (HTML, CSS, JavaScript)
+- ⚙️ Data Structures and Algorithms
+- ⚙️ Machine Learning
+
+## Projects
+- [Project 1](link-to-project1): Short description.
+- [Project 2](link-to-project2): Short description.
+
 
 <!---
 ankit723/ankit723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
